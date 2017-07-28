@@ -1,7 +1,28 @@
 body {
-	background-image:url("../images/sherwood_forest.jpg");
+	background:url("../images/woogienights.jpg");
 	background-size:cover;
+	font-family:"Tahoma";
+	color:#000000;
 }
-h1, p {
-	color: #000000;
+h1 {
+	text-align:right;
+	font-size:2.5em;
+	font-weight:800;
+
+}
+
+#slogan {
+	color:gray;
+	text-align:right;
+	font-size:1.5em;
+	font-style:italic;
+	font-weight:500;
+	letter-spacing:2x;
+}
+
+h2 {
+	text-align:right;
+	font-size:2em;
+	font-weight:800;
+
 }
