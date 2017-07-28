@@ -8,6 +8,7 @@ body {
 h1 {
 	font-size:2.5em;
 	font-weight:800;
+	padding:10px 25px;
 }
 
 #slogan {
@@ -15,15 +16,23 @@ h1 {
 	font-size:1em;
 	font-style:italic;
 	font-weight:500;
-	letter-spacing:2x;
+}
+
+div {
+	background-color:#666699;
+	opacity:0.6;
+	margin:5%;
+	border:hidden;
 }
 
 h2 {
 	font-size:1.5em;
 	font-weight:800;
+	padding:10px 25px;
 }
 
 p {
 	color:#D6DBDF;
 	font-size:1em;
+	width:400px;
 }
