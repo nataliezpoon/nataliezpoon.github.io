@@ -3,22 +3,28 @@ body {
 	background-size:cover;
 	font-family:"Tahoma";
 	color:#FFFFFF;
-	text-align:right;
+	text-align:center;
 }
 h1 {
 	font-size:2.5em;
 	font-weight:800;
+	padding:10%;
 }
 
 #slogan {
 	color:#D6DBDF;
-	font-size:1.5em;
+	font-size:1em;
 	font-style:italic;
 	font-weight:500;
 	letter-spacing:2x;
 }
 
 h2 {
-	font-size:2em;
+	font-size:1.5em;
 	font-weight:800;
+}
+
+p {
+	color:#D6DBDF;
+	font-size:1em;
 }
