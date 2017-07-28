@@ -3,17 +3,15 @@ body {
 	background-size:cover;
 	font-family:"Tahoma";
 	color:#ffffff;
+	text-align:right;
 }
 h1 {
-	text-align:right;
 	font-size:2.5em;
 	font-weight:800;
-
 }
 
 #slogan {
-	color:gray;
-	text-align:right;
+	color:#d6dbdf;
 	font-size:1.5em;
 	font-style:italic;
 	font-weight:500;
@@ -21,8 +19,6 @@ h1 {
 }
 
 h2 {
-	text-align:right;
 	font-size:2em;
 	font-weight:800;
-
 }
