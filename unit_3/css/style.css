@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Orbitron:500');
+
 body {
 	background:url("../images/woogienights.jpg");
 	background-size:cover;
@@ -8,7 +10,6 @@ body {
 h1 {
 	font-size:2.5em;
 	font-weight:800;
-	padding:10px 25px;
 }
 
 #slogan {
@@ -16,7 +17,8 @@ h1 {
 	font-size:1em;
 	font-style:italic;
 	font-weight:500;
-}
+
+h2 {
 
 /*div {
 	background-color:#666699;
@@ -24,11 +26,8 @@ h1 {
 	margin:5%;
 	border:hidden;
 }*/
-
-h2 {
 	font-size:1.5em;
 	font-weight:800;
-	padding:10px 25px;
 }
 
 p {
