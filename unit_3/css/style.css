@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css?family=Orbitron:500');
+@import url('https://fonts.googleapis.com/css?family=Orbitron|Cinzel|Righteous|Rokkitt:600');
 
 body {
 	background:url("../images/woogienights.jpg");
 	background-size:cover;
-	font-family:"Tahoma";
+	font-family:'Rokkitt',serif;
 	color:#FFFFFF;
 	text-align:center;
 }
@@ -11,28 +11,22 @@ h1 {
 	font-size:2.5em;
 	font-weight:800;
 	font-family: 'Orbitron', sans-serif;
+	padding:10px;
 }
 
 #slogan {
-	color:#D6DBDF;
-	font-size:1em;
+	font-size:1.3em;
 	font-style:italic;
 	font-weight:500;
 
 h2 {
 
-/*div {
-	background-color:#666699;
-	opacity:0.6;
-	margin:5%;
-	border:hidden;
-}*/
+	font-family:'Orbitron',sans-serif;
 	font-size:1.5em;
 	font-weight:800;
 }
 
 p {
-	color:#D6DBDF;
 	font-size:1em;
-	width:400px;
+	width:200px;
 }
