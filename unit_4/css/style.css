@@ -21,8 +21,7 @@ h1 {
 }
 div {
 	width:350px;
-	background-color:white;
-	opacity:0.4;
+	margin:auto;
 }
 
 h2 {
@@ -34,6 +33,5 @@ h2 {
 
 p {
 	font-size:1em;
-	width:250px;
 	padding:20px;
 }
