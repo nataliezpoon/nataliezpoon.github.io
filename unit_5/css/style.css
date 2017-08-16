@@ -39,11 +39,11 @@ h1 {
 }
 
 ul {
-	display:inline-block;
+	display:inline;
 	font-family:'Fredericka the Great',curseive;
 	font-size:1.5em;
 	font-weight:700;
-	padding: .8em;
+	padding: 2em 4em;
 	list-style: none;
 }
 
@@ -73,7 +73,7 @@ h2 {
 
 #collage {
 	padding:2em 3em;
-	border:.1em white solid;
+	border: .1em white solid;
 }
 
 footer {
