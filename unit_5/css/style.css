@@ -73,11 +73,11 @@ h2 {
 
 #collage {
 	padding:2em 3em;
-	border:1em white solid;
+	border:.1em white solid;
 }
 
 footer {
 	background: rgba(123, 71, 255, 0.4);
-	padding:.2em auto;
-	margin:0 .2em;
+	padding:2em auto;
+	margin:0 2em;
 }
