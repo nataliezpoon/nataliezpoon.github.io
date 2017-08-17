@@ -22,6 +22,9 @@ p {
 
 header {
 	text-align:center;
+	background-color:#FFED74;
+	border:1px black solid;
+	padding:20px;
 }
 
 h1 {
@@ -38,12 +41,13 @@ h1 {
 	padding:0 auto;
 }
 
-ul {
-	display:inline;
+nav {
+	background-color:#E8C66A;
+	border: 1px black solid;
+	padding:20px;
 	font-family:'Fredericka the Great',curseive;
 	font-size:1.5em;
 	font-weight:700;
-	padding: 2em 4em;
 	list-style: none;
 }
 
@@ -60,24 +64,37 @@ h2 {
 	font-weight:800;
 }
 
-#news {
-	background:rgba(255, 255, 255, 0.45);
-	padding:0 3em;
+#news { /*section*/
+	/* background:rgba(255, 255, 255, 0.45);
+	padding:0 3em; */
+	background-color:#FFE2B8;
+	border: 1px black solid;
+	padding 20px;
 }
 
-#findus {
-	background:rgba(255, 255, 255, 0.45);
-	padding:0 3em;
+#findus { /*section*/
+	/* background:rgba(255, 255, 255, 0.45);
+	padding:0 3em; */
+	background-color:#FFE2B8;
+	border: 1px black solid;
+	padding 20px;
+
 }
 
 
-#collage {
-	padding:2em 3em;
-	border: .1em white solid;
+#collage { /*aside*/
+	background-color:#FFC675;
+	border: 1px black solid;
+	padding: 20px;
+	/* border: .1em white solid;
+	padding: 2em 4em; */
 }
 
 footer {
-	background: rgba(123, 71, 255, 0.4);
+	/* background: rgba(123, 71, 255, 0.4);
 	padding:2em auto;
-	margin:0 2em;
+	margin:0 2em; */
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding:20px;
 }
