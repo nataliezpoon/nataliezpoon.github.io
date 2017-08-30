@@ -50,7 +50,6 @@ nav a {
 	color: white;
 	text-decoration: none;
 	display: inline-block;
-	border-bottom-color: white;
 	float: left;
 	padding: 20px;
 }
@@ -89,23 +88,22 @@ h2 {
 
 #news { /*section*/
 	background: rgba(255, 255, 255, 0.45);
-	padding: 0 3em; 
 	border: 1px black solid;
 /*	background-color:violet;
 	padding 20px;*/
 	float: left;
-	width: 30%;
+	padding: 2%;
+	width: 45%;
 }
 
 #findus { /*section*/
 	background: rgba(255, 255, 255, 0.45);
-	padding: 0 3em; 
 	border: 1px black solid;
 	/*background-color:#e55b88;
 	padding 20px;*/
 	float: right;
-	width: 62%;
-
+	padding: 2%;
+	width: 45%;
 }
 
 
@@ -113,6 +111,7 @@ h2 {
 	background-color:#FFC675;
 	border: 1px black solid;
 	padding: 20px;
+	clear: both;
 	/* border: .1em white solid;
 	padding: 2em 4em; */
 }
