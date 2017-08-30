@@ -42,38 +42,36 @@ h1 {
 }
 
 nav {
-	background-color:#E8C66A;
-	border: 1px black solid;
-	padding:20px;
-}
-ul {	
 	font-family:'Fredericka the Great',cursive;
 	font-size:1.5em;
 	font-weight:700;
-	list-style: none;
 }
 
+nav a {
+	text-decoration: none;
+	display: block;
+	float: left;
+	padding: 20px;
+}
+
+
 #about { /*article*/
-	background-color:E89C6C;
-	border:1px black solid;
-	padding:20px;
-	/* background: rgba(255, 255, 255, 0.45);
-	padding:0 3em; */
+	background: rgba(255, 255, 255, 0.45);
+	padding:0 3em; 
 }
 
 
 h2 {
-
 	font-family:'Fredericka the Great', cursive;
 	font-size:1.5em;
 	font-weight:800;
 }
 
-#two_column {
+/*#two_column {
 	background-color: #ffb7cf;
 	border: 1px black solid;
 	padding: 20px;
-}
+}*/
 
 .clearfix:after {
 	visibility: hidden;
@@ -85,21 +83,21 @@ h2 {
 }
 
 #news { /*section*/
-	/* background:rgba(255, 255, 255, 0.45);
-	padding:0 3em; */
-	background-color:violet;
+	background: rgba(255, 255, 255, 0.45);
+	padding: 0 3em; 
+/*	background-color:violet;
 	border: 1px black solid;
-	padding 20px;
+	padding 20px;*/
 	float: left;
 	width: 30%;
 }
 
 #findus { /*section*/
-	/* background:rgba(255, 255, 255, 0.45);
-	padding:0 3em; */
-	background-color:#e55b88;
+	background: rgba(255, 255, 255, 0.45);
+	padding: 0 3em; 
+	/*background-color:#e55b88;
 	border: 1px black solid;
-	padding 20px;
+	padding 20px;*/
 	float: right;
 	width: 62%;
 
