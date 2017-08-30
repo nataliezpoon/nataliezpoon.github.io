@@ -78,9 +78,11 @@ h2 {
 #news { /*section*/
 	/* background:rgba(255, 255, 255, 0.45);
 	padding:0 3em; */
-	background-color:#e582a2;
+	background-color:violet;
 	border: 1px black solid;
 	padding 20px;
+	float: left;
+	width: 30%;
 }
 
 #findus { /*section*/
@@ -89,6 +91,8 @@ h2 {
 	background-color:#e55b88;
 	border: 1px black solid;
 	padding 20px;
+	float: right;
+	width: 62%;
 
 }
 
