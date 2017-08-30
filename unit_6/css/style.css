@@ -69,10 +69,16 @@ h2 {
 	font-weight:800;
 }
 
+#two_column {
+	background-color: #ffb7cf;
+	border: 1px black solid;
+	padding: 20px;
+}
+
 #news { /*section*/
 	/* background:rgba(255, 255, 255, 0.45);
 	padding:0 3em; */
-	background-color:#FFE2B8;
+	background-color:#e582a2;
 	border: 1px black solid;
 	padding 20px;
 }
@@ -80,7 +86,7 @@ h2 {
 #findus { /*section*/
 	/* background:rgba(255, 255, 255, 0.45);
 	padding:0 3em; */
-	background-color:#FFE2B8;
+	background-color:#e55b88;
 	border: 1px black solid;
 	padding 20px;
 
