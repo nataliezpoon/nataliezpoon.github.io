@@ -22,7 +22,6 @@ p {
 
 header {
 	text-align:center;
-	background-color:#FFED74;
 	border:1px black solid;
 	padding:20px;
 }
@@ -53,6 +52,10 @@ nav a {
 	display: block;
 	float: left;
 	padding: 20px;
+}
+
+a:hover {
+	background: rgba(255, 255, 255, 0.45);
 }
 
 
